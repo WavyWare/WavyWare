@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm wavy and I'm a Full-Stack Dev, from Poland.</h2>
+<h2 align="left">Hi 👋! I'm Wavy and I'm a Full-Stack Dev, from Poland.</h2>
 
 ###
 
